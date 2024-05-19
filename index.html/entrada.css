@@ -1,0 +1,31 @@
+/* Este es un comentario en CSS */
+
+/* Estilos para el cuerpo de la página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para los encabezados */
+h1 {
+    color: #333;
+}
+
+/* Estilos para los párrafos */
+p {
+    color: #666;
+    line-height: 1.5;
+}
+
+/* Estilos para un enlace */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+/* Estilos para un enlace cuando está en estado hover (sobre él) */
+a:hover {
+    text-decoration: underline;
+}
